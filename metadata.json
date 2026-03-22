@@ -1,0 +1,5 @@
+{
+  "name": "Desktop Time-Block Widget",
+  "description": "A sleek desktop widget for managing todo items within specific time blocks with adjustable transparency.",
+  "requestFramePermissions": []
+}

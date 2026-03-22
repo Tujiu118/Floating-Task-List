@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* 让窗口可以被拖动的类 */
+.drag-region {
+  -webkit-app-region: drag;
+}
+
+/* 让按钮、输入框等不被拖动（保持点击功能）的类 */
+.no-drag {
+  -webkit-app-region: no-drag;
+}
